@@ -13,3 +13,17 @@
 .externalNativeBuild
 .cxx
 local.properties
+# APK and AAB files
+*.apk
+*.aab
+
+# Logs
+*.log
+
+# Output and captures
+captures/
+output.json
+
+# Native build folders
+.externalNativeBuild/
+.cxx/
